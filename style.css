@@ -1,0 +1,40 @@
+
+
+.homediv{
+    background-color: lightblue;
+    margin: 15px auto;
+    text-align: center;
+}
+.homediv h1{
+    color: red;
+}
+.homediv input{
+    margin-top: 10px;
+}
+
+.searchUser2{
+    display: flex;
+    
+    background-color: orange;
+    padding: 0 5px;
+    
+    /* background-color: yellow; */
+}
+
+.searchUser{
+    width: fit-content;
+    background-color: yellow;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.searchUser2 #searchsubmit{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.searchUser2 p{
+    font-size: 25px;
+    margin-top: 7px;
+    margin-right: 5px;
+}
